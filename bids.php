@@ -1,4 +1,4 @@
-<?php include('admin/db_connect.php');?>
+<?php include('db_connect.php');?>
 
 <div class="container-fluid">
 	

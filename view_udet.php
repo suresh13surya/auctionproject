@@ -1,4 +1,4 @@
-<?php include 'admin/db_connect.php' ?>
+<?php include 'db_connect.php' ?>
 <?php
 if(isset($_GET['id'])){
 $qry = $conn->query("SELECT * FROM users where id= ".$_GET['id']);
